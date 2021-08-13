@@ -4,7 +4,7 @@ Code exercises that include Deep Learning models are here!
 
 ## List of exercises so far:
 
-* Image Classification with Convolutional Neural Network and Hyperparameter Tuning (Rock, Paper, Scissors dataset)
+* Image Classification with Convolutional Neural Network and Hyperparameter Optimization (Rock, Paper, Scissors dataset)
 * Baginner Level Supervised Numerical Data Modeling
 
 Deep Learning tutorial will be added, stay tuned :)
